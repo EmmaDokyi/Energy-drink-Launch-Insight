@@ -13,7 +13,7 @@ EXECUTIVE SUMMARY
 
 The survey revealed that 45% of respondents are aware of the CodeX energy drink, with online ads and TV commercials being the primary sources of information. Notably, cities like Mumbai and Delhi show high awareness (60%) but low trial rates (3% and 1%, respectively). This discrepancy indicates a need for refined marketing strategies in these key urban areas.
 
-The entire interactive PowerBI dashboard can be downloaded here
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/EmmaDokyi/Energy-drink-Launch-Insight/raw/refs/heads/main/dashboard-energy-drink-launch.pbix)
 
 KEY INSIGHTS
 1. 40% of respondents learned about energy drinks through online ads, while 26% noted TV commercials. Cities with high awareness from TV commercials include Mumbai, Pune, Ahmedabad, and Delhi while Bangalore, and Hyderabad had high awareness from online ads. Interestingly, 83.8% of respondents who were aware of energy drinks online were between age 14 and 31. This suggests the youth demographic is particularly engaged with online marketing.
