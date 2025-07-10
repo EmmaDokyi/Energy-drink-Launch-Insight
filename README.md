@@ -8,6 +8,13 @@ Insights and Recommendations are provided on the following areas:
 1. Product Performance: An analysis of Product performance and areas for development
 2. Demographic Comparison: An evaluation of brand awareness and performance by Gender, Age and City
 
+OBJECTIVES
+
+Evaluate brand awareness and trial performance by city, age, and gender.
+- Identify **market gaps** and **conversion challenges** in high-awareness regions.
+- Understand consumer preferences regarding **pricing**, **packaging**, and **product variants**.
+- Deliver actionable recommendations using **interactive dashboards and visuals**.
+
 
 EXECUTIVE SUMMARY
 
