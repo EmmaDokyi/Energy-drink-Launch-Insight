@@ -22,23 +22,6 @@ The survey revealed that 45% of respondents are aware of the CodeX energy drink,
 
 An interactive PowerBI dashboard can be downloaded [here](https://github.com/EmmaDokyi/Energy-drink-Launch-Insight/raw/refs/heads/main/dashboard-energy-drink-launch.pbix)
 
-KEY INSIGHTS
-1. 40% of respondents learned about energy drinks through online ads, while 26% noted TV commercials. Cities with high awareness from TV commercials include Mumbai, Pune, Ahmedabad, and Delhi while Bangalore, and Hyderabad had high awareness from online ads. Interestingly, 83.8% of respondents who were aware of energy drinks online were between age 14 and 31. This suggests the youth demographic is particularly engaged with online marketing.
-
-2. Supermarkets are the leading purchase points (45%), followed by online retailers (25%). Local stores are less favored.
-
-3. Bangalore leads with 40% of trial respondents despite representing only 28% of total respondents. Conversely, Delhi and Pune show negligible trial rates despite awareness.
-
-4. While Mumbai and Delhi had 60% of the of respondents aware of the product, only 9% and 11% of respondents had tried the product before. Also in Pune 41% of respondents had heard the product but only 5.3% of that population had tried the product before.
-
-5. Younger consumers (15-30) prefer energy drinks priced between 50-99 rupees, while those aged 30-46 lean towards a price range of 100-150 rupees.
-
-6. 35% of respondents consume energy drinks 2-3 times a week, 19.5% rarely consume energy while 13% consume daily. However there was notable daily consumption in Chennai (40%) and Delhi (38%).
-
-7. 60% of respondents expressed health concerns preferring energy drinks with reduced sugar contents and more natural ingredients.
-
-8. Compact, portable cans (40%) and innovative bottle designs (30%) are appealing features.
-
 ## 📊 KEY INSIGHTS
 
 - **Awareness vs. Trial Gap:**  
@@ -55,6 +38,14 @@ KEY INSIGHTS
 
 - **Health & Packaging Preferences:**  
   60% of respondents preferred **reduced-sugar** drinks and favored **compact, portable cans** with innovative packaging features.
+
+## 📌 Recommendations
+
+- Conduct qualitative research in **Mumbai** and **Delhi** to understand low trial conversion and address barriers such as health concerns or brand unfamiliarity.
+- Strengthen **digital marketing efforts**, especially in Bangalore and Hyderabad, leveraging influencers and giveaways.
+- Participate in high-energy events (festivals, sports, campus) to boost trial and brand association.
+- Develop a **reduced-sugar or sugar-free** variant to cater to health-conscious consumers.
+- Invest in **ergonomic and visually appealing packaging** (e.g., glow-in-the-dark cans) to attract nightlife and youth segments.
 
 
 RECOMMENDATIONS
