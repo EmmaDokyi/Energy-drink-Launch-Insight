@@ -39,6 +39,24 @@ KEY INSIGHTS
 
 8. Compact, portable cans (40%) and innovative bottle designs (30%) are appealing features.
 
+## 📊 KEY INSIGHTS
+
+- **Awareness vs. Trial Gap:**  
+  Mumbai and Delhi had 60% awareness but trial rates were just 3% and 1% respectively — suggesting poor conversion in major cities.
+
+- **Regional Performance:**  
+  Bangalore stood out, accounting for 40% of trials despite making up only 28% of respondents — indicating a strong product-market fit.
+
+- **Demographic Trends:**  
+  83.8% of respondents who discovered CodeX through online ads were aged 14–31, highlighting the power of digital marketing among youth.
+
+- **Purchase Channels:**  
+  Supermarkets dominated as the primary point of sale (45%), followed by online retailers (25%).
+
+- **Health & Packaging Preferences:**  
+  60% of respondents preferred **reduced-sugar** drinks and favored **compact, portable cans** with innovative packaging features.
+
+
 RECOMMENDATIONS
 
 1. Conduct qualitative research in Mumbai and Delhi to uncover barriers to product trial, focusing on unfamiliarity, brand perception, and health concerns before allocating more resources to advertising.
